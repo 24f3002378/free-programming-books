@@ -80,7 +80,7 @@
 ### Python
 
 * [البرمجة بلغة بايثون](https://academy.hsoub.com/files/15-البرمجة-بلغة-بايثون/)
-* [Learn Python – Full Course for Beginners](https://www.freecodecamp.org/news/learn-python-free-full-course/) - freeCodeCamp (HTML, Video)
+  *   [Learn Python – Full Course for Beginners](https://www.freecodecamp.org/news/learn-python-free-full-course/) - freeCodeCamp (HTML, Video)
 
 
 ### Raspberry Pi
